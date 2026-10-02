@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "generator": {
+    "name": "unity-ai",
+    "version": "0.1.0-alpha.13"
+  },
+  "modelId": "elevenlabs-sound-effects-v2",
+  "orgId": "20067061194790",
+  "jobId": "01a0fb69-e97e-7d74-b991-f7096405c965",
+  "assetId": "01a0fb6a-1a00-748c-869a-83aeeb6e0f13",
+  "pointsCost": 5,
+  "createdAt": "2026-10-02T07:00:32.6020930+00:00",
+  "prompt": "Quick swing whoosh of a racket cutting through air, short and airy",
+  "modelName": "ElevenLabs Sound Effects V2",
+  "params": {
+    "prompt": "Quick swing whoosh of a racket cutting through air, short and airy",
+    "duration": 0.5,
+    "prompt_influence": 0.6,
+    "output_format": "wav"
+  },
+  "output": {
+    "index": 1,
+    "count": 1,
+    "generationId": "01a0fb69-e97e-7d74-b991-f7096405c965"
+  }
+}

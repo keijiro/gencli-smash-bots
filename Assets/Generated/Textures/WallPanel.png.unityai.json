@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "generator": {
+    "name": "unity-ai",
+    "version": "0.1.0-alpha.13"
+  },
+  "modelId": "gpt-image-2-5-flare",
+  "orgId": "20067061194790",
+  "jobId": "01a0fb69-7d99-7f96-ab91-c7edc6f6e9f0",
+  "assetId": "01a0fb69-fcad-77a9-a034-98d9ab49e303",
+  "pointsCost": 2,
+  "createdAt": "2026-10-02T07:00:25.4837700+00:00",
+  "prompt": "Seamless tileable square texture, flat orthographic front view of a clean futuristic white sci-fi wall panel module: off-white matte panels with light grey seams, one large recessed rectangular panel with chamfered corners, a few small vent grilles and tiny details, matching the white corridor walls in the reference image, uniform soft lighting, no perspective, no shadows, no text.",
+  "modelName": "GPT Image 2.5 Flare",
+  "params": {
+    "prompt": "Seamless tileable square texture, flat orthographic front view of a clean futuristic white sci-fi wall panel module: off-white matte panels with light grey seams, one large recessed rectangular panel with chamfered corners, a few small vent grilles and tiny details, matching the white corridor walls in the reference image, uniform soft lighting, no perspective, no shadows, no text.",
+    "width": 1024,
+    "height": 1024,
+    "quality": "high",
+    "background": "opaque",
+    "reference_images": [
+      "01a0fb69-700b-7e58-bfc6-3985f56e0908"
+    ]
+  },
+  "inputs": [
+    {
+      "param": "reference_images",
+      "file": "concept3.png",
+      "assetId": "01a0fb69-700b-7e58-bfc6-3985f56e0908"
+    }
+  ],
+  "output": {
+    "index": 1,
+    "count": 1,
+    "generationId": "01a0fb69-7d99-7f96-ab91-c7edc6f6e9f0"
+  }
+}

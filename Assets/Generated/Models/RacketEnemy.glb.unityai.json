@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "generator": {
+    "name": "unity-ai",
+    "version": "0.1.0-alpha.13"
+  },
+  "modelId": "model3d-tripo-p2",
+  "orgId": "20067061194790",
+  "jobId": "01a0fb6c-59d7-79ef-8d9c-7620a83d4195",
+  "assetId": "01a0fb6f-74b3-795c-9f32-4fe1dc55ac26",
+  "pointsCost": 34,
+  "createdAt": "2026-10-02T07:06:27.0395460+00:00",
+  "modelName": "Tripo P2",
+  "params": {
+    "texture_quality": "detailed",
+    "face_limit": 12000,
+    "reference_image": "01a0fb6c-4d51-7b3a-aeaf-287a9cbaf4a6"
+  },
+  "inputs": [
+    {
+      "param": "reference_image",
+      "file": "racket_enemy_cutout.png",
+      "assetId": "01a0fb6c-4d51-7b3a-aeaf-287a9cbaf4a6"
+    }
+  ],
+  "output": {
+    "index": 1,
+    "count": 1,
+    "generationId": "01a0fb6c-59d7-79ef-8d9c-7620a83d4195"
+  }
+}

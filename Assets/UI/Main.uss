@@ -1,0 +1,310 @@
+.root {
+    flex-grow: 1;
+    -unity-font: url("project://database/Assets/Fonts/RussoOne-Regular.ttf");
+    color: rgb(255, 255, 255);
+}
+
+.fullscreen {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+}
+
+/* Cinematic overlays */
+
+.speedlines {
+    background-image: url("project://database/Assets/Generated/UI/SpeedLines.png");
+    -unity-background-scale-mode: stretch-to-fill;
+    opacity: 0;
+}
+
+.letterbox {
+    position: absolute;
+    left: 0;
+    right: 0;
+    height: 0;
+    background-color: rgb(0, 0, 0);
+}
+
+.letterbox-top { top: 0; }
+.letterbox-bottom { bottom: 0; }
+
+.flash {
+    background-color: rgb(255, 255, 255);
+    opacity: 0;
+}
+
+/* Score HUD */
+
+.hud {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 220px;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 0;
+}
+
+.score-panel {
+    width: 600px;
+    height: 200px;
+    -unity-background-scale-mode: stretch-to-fill;
+}
+
+.score-panel-player { background-image: url("project://database/Assets/Generated/UI/PanelOrange.png"); }
+.score-panel-cpu { background-image: url("project://database/Assets/Generated/UI/PanelBlue.png"); }
+
+.panel-name {
+    position: absolute;
+    top: 64px;
+    font-size: 30px;
+    -unity-font: url("project://database/Assets/Fonts/Rajdhani-Bold.ttf");
+    letter-spacing: 4px;
+}
+
+.panel-name-player { left: 124px; color: rgb(255, 170, 80); }
+.panel-name-cpu { right: 92px; color: rgb(140, 200, 255); }
+
+.panel-serve {
+    position: absolute;
+    top: 100px;
+    font-size: 20px;
+    -unity-font: url("project://database/Assets/Fonts/Rajdhani-Bold.ttf");
+    letter-spacing: 3px;
+    opacity: 0;
+    color: rgb(255, 255, 255);
+}
+
+.panel-serve-player { left: 300px; top: 70px; }
+.panel-serve-cpu { right: 300px; top: 70px; }
+
+.panel-score {
+    position: absolute;
+    top: 58px;
+    width: 76px;
+    height: 76px;
+    font-size: 54px;
+    -unity-text-align: middle-center;
+}
+
+.panel-score-player { left: 436px; color: rgb(255, 180, 60); }
+.panel-score-cpu { left: 70px; color: rgb(150, 210, 255); }
+
+.match-info {
+    margin-top: 72px;
+    font-size: 22px;
+    letter-spacing: 6px;
+    -unity-font: url("project://database/Assets/Fonts/Rajdhani-Bold.ttf");
+    color: rgba(30, 50, 80, 0.75);
+}
+
+/* Hit indicator */
+
+.marker {
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    translate: -50% -50%;
+    background-image: url("project://database/Assets/Generated/UI/ReticleRing.png");
+    -unity-background-scale-mode: scale-to-fit;
+    display: none;
+}
+
+.hit-approach {
+    -unity-background-image-tint-color: rgb(255, 190, 90);
+}
+
+.rating {
+    position: absolute;
+    translate: -50% -50%;
+    font-size: 54px;
+    -unity-font-style: italic;
+    -unity-text-outline-width: 1.5px;
+    -unity-text-outline-color: rgba(0, 0, 0, 0.6);
+    text-shadow: 0 0 12px rgba(255, 140, 40, 0.9);
+    opacity: 0;
+    white-space: nowrap;
+}
+
+/* Smash QTE */
+
+.qte {
+    position: absolute;
+    width: 0;
+    height: 0;
+    display: none;
+}
+
+.qte-glow {
+    position: absolute;
+    width: 340px;
+    height: 340px;
+    translate: -50% -50%;
+    background-image: url("project://database/Assets/Generated/Textures/ImpactBurst.png");
+    -unity-background-scale-mode: scale-to-fit;
+    opacity: 0;
+}
+
+.qte-ring {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    translate: -50% -50%;
+    background-image: url("project://database/Assets/Generated/UI/ReticleRing.png");
+    -unity-background-scale-mode: scale-to-fit;
+}
+
+.qte-chev {
+    position: absolute;
+    width: 76px;
+    height: 76px;
+    translate: -50% -50%;
+    background-image: url("project://database/Assets/Generated/UI/Chevron.png");
+    -unity-background-scale-mode: scale-to-fit;
+}
+
+.qte-label {
+    position: absolute;
+    left: 50%;
+    top: 15%;
+    width: 900px;
+    translate: -50% -50%;
+    font-size: 48px;
+    display: none;
+    letter-spacing: 6px;
+    -unity-font-style: italic;
+    -unity-text-align: middle-center;
+    color: rgb(210, 235, 255);
+    -unity-text-outline-width: 2px;
+    -unity-text-outline-color: rgba(10, 30, 70, 0.85);
+    text-shadow: 0 0 10px rgba(80, 160, 255, 0.9);
+}
+
+.qte-now {
+    position: absolute;
+    width: 600px;
+    translate: -50% -50%;
+    top: 220px;
+    font-size: 64px;
+    -unity-font-style: italic;
+    -unity-text-align: middle-center;
+    color: rgb(255, 200, 80);
+    text-shadow: 0 0 14px rgba(255, 120, 20, 1);
+    opacity: 0;
+}
+
+.smash-chance {
+    position: absolute;
+    left: 50%;
+    top: 16%;
+    translate: -50% -50%;
+    font-size: 78px;
+    -unity-font-style: italic;
+    color: rgb(255, 210, 120);
+    -unity-text-outline-width: 2px;
+    -unity-text-outline-color: rgb(200, 70, 0);
+    text-shadow: 0 0 18px rgba(255, 110, 0, 1);
+    opacity: 0;
+    white-space: nowrap;
+}
+
+.smash-title {
+    position: absolute;
+    left: 50%;
+    top: 22%;
+    width: 1100px;
+    height: 458px;
+    translate: -50% -50%;
+    background-image: url("project://database/Assets/Generated/UI/SmashText.png");
+    -unity-background-scale-mode: scale-to-fit;
+    opacity: 0;
+}
+
+/* Messages */
+
+.message {
+    position: absolute;
+    left: 50%;
+    top: 42%;
+    translate: -50% -50%;
+    font-size: 110px;
+    -unity-font-style: italic;
+    -unity-text-outline-width: 2px;
+    -unity-text-outline-color: rgba(0, 0, 0, 0.5);
+    text-shadow: 0 0 20px rgba(255, 140, 40, 0.9);
+    opacity: 0;
+    white-space: nowrap;
+}
+
+.sub-message {
+    position: absolute;
+    left: 50%;
+    top: 53%;
+    translate: -50% -50%;
+    font-size: 40px;
+    letter-spacing: 6px;
+    -unity-font: url("project://database/Assets/Fonts/Rajdhani-Bold.ttf");
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+    opacity: 0;
+    white-space: nowrap;
+}
+
+/* Title / result screens */
+
+.title-screen {
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(10, 20, 40, 0.25);
+}
+
+.logo {
+    width: 1050px;
+    height: 525px;
+    margin-top: -260px;
+    background-image: url("project://database/Assets/Generated/UI/Logo.png");
+    -unity-background-scale-mode: scale-to-fit;
+}
+
+.start-label {
+    margin-top: 150px;
+    font-size: 56px;
+    letter-spacing: 8px;
+    -unity-font-style: italic;
+    color: rgb(255, 255, 255);
+    text-shadow: 0 0 16px rgba(255, 140, 40, 1);
+}
+
+.howto {
+    position: absolute;
+    bottom: 48px;
+    font-size: 26px;
+    letter-spacing: 2px;
+    -unity-font: url("project://database/Assets/Fonts/Rajdhani-Bold.ttf");
+    color: rgb(230, 240, 255);
+    text-shadow: 0 0 8px rgba(0, 0, 0, 1);
+}
+
+.result-screen {
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(5, 10, 25, 0.55);
+    display: none;
+}
+
+.result-label {
+    font-size: 150px;
+    -unity-font-style: italic;
+    text-shadow: 0 0 30px rgba(255, 130, 30, 1);
+}
+
+.result-score {
+    font-size: 80px;
+    margin-bottom: 40px;
+    color: rgb(230, 240, 255);
+}

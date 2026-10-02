@@ -1,0 +1,49 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/Main.uss" />
+    <engine:VisualElement name="root" class="root" picking-mode="Ignore">
+        <engine:VisualElement name="speedlines" class="fullscreen speedlines" picking-mode="Ignore" />
+        <engine:VisualElement name="letterbox-top" class="letterbox letterbox-top" picking-mode="Ignore" />
+        <engine:VisualElement name="letterbox-bottom" class="letterbox letterbox-bottom" picking-mode="Ignore" />
+        <engine:VisualElement name="hud" class="hud" picking-mode="Ignore">
+            <engine:VisualElement name="player-panel" class="score-panel score-panel-player" picking-mode="Ignore">
+                <engine:Label name="player-name" text="PLAYER" class="panel-name panel-name-player" picking-mode="Ignore" />
+                <engine:Label name="player-serve" text="SERVE" class="panel-serve panel-serve-player" picking-mode="Ignore" />
+                <engine:Label name="player-score" text="0" class="panel-score panel-score-player" picking-mode="Ignore" />
+            </engine:VisualElement>
+            <engine:Label name="match-info" text="FIRST TO 7" class="match-info" picking-mode="Ignore" />
+            <engine:VisualElement name="cpu-panel" class="score-panel score-panel-cpu" picking-mode="Ignore">
+                <engine:Label name="cpu-name" text="CPU" class="panel-name panel-name-cpu" picking-mode="Ignore" />
+                <engine:Label name="cpu-serve" text="SERVE" class="panel-serve panel-serve-cpu" picking-mode="Ignore" />
+                <engine:Label name="cpu-score" text="0" class="panel-score panel-score-cpu" picking-mode="Ignore" />
+            </engine:VisualElement>
+        </engine:VisualElement>
+        <engine:VisualElement name="hit-approach" class="marker hit-approach" picking-mode="Ignore" />
+        <engine:VisualElement name="hit-target" class="marker hit-target" picking-mode="Ignore" />
+        <engine:Label name="rating" class="rating" picking-mode="Ignore" />
+        <engine:VisualElement name="qte" class="qte" picking-mode="Ignore">
+            <engine:VisualElement name="qte-glow" class="qte-glow" picking-mode="Ignore" />
+            <engine:VisualElement name="qte-ring" class="qte-ring" picking-mode="Ignore" />
+            <engine:VisualElement name="qte-chev-0" class="qte-chev" picking-mode="Ignore" />
+            <engine:VisualElement name="qte-chev-1" class="qte-chev" picking-mode="Ignore" />
+            <engine:VisualElement name="qte-chev-2" class="qte-chev" picking-mode="Ignore" />
+            <engine:VisualElement name="qte-chev-3" class="qte-chev" picking-mode="Ignore" />
+            <engine:Label name="qte-now" text="NOW!" class="qte-now" picking-mode="Ignore" />
+        </engine:VisualElement>
+        <engine:Label name="qte-label" text="AIM &amp; CLICK" class="qte-label" picking-mode="Ignore" />
+        <engine:Label name="smash-chance" text="SMASH CHANCE!" class="smash-chance" picking-mode="Ignore" />
+        <engine:VisualElement name="smash-title" class="smash-title" picking-mode="Ignore" />
+        <engine:Label name="message" class="message" picking-mode="Ignore" />
+        <engine:Label name="sub-message" class="sub-message" picking-mode="Ignore" />
+        <engine:VisualElement name="title-screen" class="fullscreen title-screen" picking-mode="Ignore">
+            <engine:VisualElement name="logo" class="logo" picking-mode="Ignore" />
+            <engine:Label name="start-label" text="CLICK TO START" class="start-label" picking-mode="Ignore" />
+            <engine:Label name="howto" class="howto" picking-mode="Ignore" text="CLICK WHEN THE BALL COMES  •  BETTER TIMING &amp; AIM = STRONGER SHOTS  •  ON A SMASH CHANCE, CLICK THE RETICLE AS IT LOCKS ON" />
+        </engine:VisualElement>
+        <engine:VisualElement name="result-screen" class="fullscreen result-screen" picking-mode="Ignore">
+            <engine:Label name="result-label" text="YOU WIN!" class="result-label" picking-mode="Ignore" />
+            <engine:Label name="result-score" text="7 - 3" class="result-score" picking-mode="Ignore" />
+            <engine:Label name="continue-label" text="CLICK TO CONTINUE" class="start-label" picking-mode="Ignore" />
+        </engine:VisualElement>
+        <engine:VisualElement name="flash" class="fullscreen flash" picking-mode="Ignore" />
+    </engine:VisualElement>
+</engine:UXML>

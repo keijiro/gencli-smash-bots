@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "generator": {
+    "name": "unity-ai",
+    "version": "0.1.0-alpha.13"
+  },
+  "modelId": "gpt-image-2-5-flare",
+  "orgId": "20067061194790",
+  "jobId": "01a0fb76-4d48-7c85-b750-cf7b5c7557b3",
+  "assetId": "01a0fb76-b6fa-70f0-9b34-a0e8baf5de8e",
+  "pointsCost": 2,
+  "createdAt": "2026-10-02T07:14:20.3354040+00:00",
+  "prompt": "Game visual effect sprite: a bright energy impact burst flash, white-hot core with sharp radiating orange and yellow light spikes and a thin shockwave ring, centered, symmetric, isolated on a fully transparent background.",
+  "modelName": "GPT Image 2.5 Flare",
+  "params": {
+    "prompt": "Game visual effect sprite: a bright energy impact burst flash, white-hot core with sharp radiating orange and yellow light spikes and a thin shockwave ring, centered, symmetric, isolated on a fully transparent background.",
+    "width": 1024,
+    "height": 1024,
+    "quality": "high",
+    "background": "transparent"
+  },
+  "output": {
+    "index": 1,
+    "count": 1,
+    "generationId": "01a0fb76-4d48-7c85-b750-cf7b5c7557b3"
+  }
+}

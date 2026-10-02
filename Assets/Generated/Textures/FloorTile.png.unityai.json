@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "generator": {
+    "name": "unity-ai",
+    "version": "0.1.0-alpha.13"
+  },
+  "modelId": "gpt-image-2-5-flare",
+  "orgId": "20067061194790",
+  "jobId": "01a0fb69-734e-7ac1-9dc1-359152ce0ca4",
+  "assetId": "01a0fb69-d31e-70c7-a864-ae22e8656200",
+  "pointsCost": 2,
+  "createdAt": "2026-10-02T07:00:15.8597540+00:00",
+  "prompt": "Seamless tileable square texture, perfectly flat orthographic top-down view of one futuristic court floor panel: smooth dark slate blue-grey glossy surface with very subtle fine brushed micro detail and faint tiny engraved markings, a thin crisp light-blue line running exactly along all four edges of the square, uniform flat lighting, no perspective, no shadows, no reflections, no text.",
+  "modelName": "GPT Image 2.5 Flare",
+  "params": {
+    "prompt": "Seamless tileable square texture, perfectly flat orthographic top-down view of one futuristic court floor panel: smooth dark slate blue-grey glossy surface with very subtle fine brushed micro detail and faint tiny engraved markings, a thin crisp light-blue line running exactly along all four edges of the square, uniform flat lighting, no perspective, no shadows, no reflections, no text.",
+    "width": 1024,
+    "height": 1024,
+    "quality": "high",
+    "background": "opaque"
+  },
+  "output": {
+    "index": 1,
+    "count": 1,
+    "generationId": "01a0fb69-734e-7ac1-9dc1-359152ce0ca4"
+  }
+}

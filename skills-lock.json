@@ -1,0 +1,209 @@
+{
+  "version": 1,
+  "skills": {
+    "2d-pixel-perfect": {
+      "source": "Unity-Technologies/skills",
+      "sourceType": "github",
+      "skillPath": "skills/2d-pixel-perfect/SKILL.md",
+      "computedHash": "cfa21f7a5c027212d8c65d569247d79717b6686ce7bb267ea3de56aa523842fa"
+    },
+    "asset-transformer-toolkit": {
+      "source": "Unity-Technologies/skills",
+      "sourceType": "github",
+      "skillPath": "skills/asset-transformer-toolkit/SKILL.md",
+      "computedHash": "cdf54cbccd0b023789c99268f9e2dfeccc274e62e25adfa06cba7a76c84f5bfd"
+    },
+    "audio-setup-mixers": {
+      "source": "Unity-Technologies/skills",
+      "sourceType": "github",
+      "skillPath": "skills/audio-setup-mixers/SKILL.md",
+      "computedHash": "fa8b2cf6e17c47534b055b44c62bb68555ea1ec784939d3fad687f754ab1c4f0"
+    },
+    "build-gtk": {
+      "source": "Unity-Technologies/skills",
+      "sourceType": "github",
+      "skillPath": "skills/build-gtk/SKILL.md",
+      "computedHash": "af3064e08d65f4c8d1d09513d8b229546515e0cb65fb8476439e8ca1842ce25a"
+    },
+    "build-live-game": {
+      "source": "Unity-Technologies/skills",
+      "sourceType": "github",
+      "skillPath": "skills/build-live-game/SKILL.md",
+      "computedHash": "acea88e88b3e582241e66da6365bd5f6aab4a315fd26b54d79d2a274a67a522e"
+    },
+    "generate-editor-search-query": {
+      "source": "Unity-Technologies/skills",
+      "sourceType": "github",
+      "skillPath": "skills/generate-editor-search-query/SKILL.md",
+      "computedHash": "1ac723793f24ffa06207e783700f14ce8b37e0963c99448d7efc89eb13e50486"
+    },
+    "implement-in-app-purchases": {
+      "source": "Unity-Technologies/skills",
+      "sourceType": "github",
+      "skillPath": "skills/implement-in-app-purchases/SKILL.md",
+      "computedHash": "791474c1cbc3402dea0625c8dedbe533930f3cded65b5608f6a34e7e9bff9341"
+    },
+    "initialize-ai-navigation": {
+      "source": "Unity-Technologies/skills",
+      "sourceType": "github",
+      "skillPath": "skills/initialize-ai-navigation/SKILL.md",
+      "computedHash": "45122d6636f0586523d3c68b2396f4f9a48ff7825ea250afc1f1af6d2b0b95bd"
+    },
+    "levelplay-unity-integration": {
+      "source": "Unity-Technologies/skills",
+      "sourceType": "github",
+      "skillPath": "skills/levelplay-unity-integration/SKILL.md",
+      "computedHash": "761fb7e95b5d85ba860c4f94c4a5848e06e3df94b2cc650da4e85ab8c8a32db4"
+    },
+    "localization": {
+      "source": "Unity-Technologies/skills",
+      "sourceType": "github",
+      "skillPath": "skills/localization/SKILL.md",
+      "computedHash": "ca07f23bff48b42aea4ef84f177bb54cc56791c86a2708011922bfb57ac99b8a"
+    },
+    "manage-sprite-atlas": {
+      "source": "Unity-Technologies/skills",
+      "sourceType": "github",
+      "skillPath": "skills/manage-sprite-atlas/SKILL.md",
+      "computedHash": "b1ddc7dc3e87aa25937238210da5695e0fb5c262aca4f1bbaa17d8c575dbcfe9"
+    },
+    "migrate-birp-to-urp": {
+      "source": "Unity-Technologies/skills",
+      "sourceType": "github",
+      "skillPath": "skills/migrate-birp-to-urp/SKILL.md",
+      "computedHash": "1b61ded7d1db13d43645383353dfab43f69b0630b25d331e48cd5c4b79be9392"
+    },
+    "new-unity-project": {
+      "source": "Unity-Technologies/skills",
+      "sourceType": "github",
+      "skillPath": "skills/new-unity-project/SKILL.md",
+      "computedHash": "ffcb3e579dc16610a528385bb2bec61610f2df49ac993d588262997e3c13dab5"
+    },
+    "optimize-audio": {
+      "source": "Unity-Technologies/skills",
+      "sourceType": "github",
+      "skillPath": "skills/optimize-audio/SKILL.md",
+      "computedHash": "07df50d8ef2d7b9d781b01c1889c71c79e0ca5f8c6b06433a27006ea699d7b5b"
+    },
+    "optimize-text-mesh-pro": {
+      "source": "Unity-Technologies/skills",
+      "sourceType": "github",
+      "skillPath": "skills/optimize-text-mesh-pro/SKILL.md",
+      "computedHash": "70c29beab452f0f64b119b6a982dc9246b71d21da3d87df73e0c954c0967e84b"
+    },
+    "optimize-web": {
+      "source": "Unity-Technologies/skills",
+      "sourceType": "github",
+      "skillPath": "skills/optimize-web/SKILL.md",
+      "computedHash": "62beee5552a1e97d43e0bb6537035caf8899c507d5f81836e7cf8ade2d7f74ab"
+    },
+    "physics-3d-collision": {
+      "source": "Unity-Technologies/skills",
+      "sourceType": "github",
+      "skillPath": "skills/physics-3d-collision/SKILL.md",
+      "computedHash": "c8a799bca0f54d6c7293d8316fea2efc69b5dd0e2aae30a9b09bb4fa98617bd3"
+    },
+    "project-auditor-fixes": {
+      "source": "Unity-Technologies/skills",
+      "sourceType": "github",
+      "skillPath": "skills/project-auditor-fixes/SKILL.md",
+      "computedHash": "60ee9dac3c18e173eafb13bafd84735e14644b965a05f614da5ef8a149f3830f"
+    },
+    "setup-multiplayer-services": {
+      "source": "Unity-Technologies/skills",
+      "sourceType": "github",
+      "skillPath": "skills/setup-multiplayer-services/SKILL.md",
+      "computedHash": "b10217b212c61c7c296606d22fdea99048fc10c43a14f9fea3575bdd4aed9252"
+    },
+    "setup-vivox-voice-chat": {
+      "source": "Unity-Technologies/skills",
+      "sourceType": "github",
+      "skillPath": "skills/setup-vivox-voice-chat/SKILL.md",
+      "computedHash": "2a28b815f82a82cce9e8bed380e9145109c24474dc3882e30b5bf2b4e68aebdc"
+    },
+    "shader-graph-create-custom-node": {
+      "source": "Unity-Technologies/skills",
+      "sourceType": "github",
+      "skillPath": "skills/shader-graph-create-custom-node/SKILL.md",
+      "computedHash": "b260c88979910a248d5da0246dee011bbcff189cda3d35abde21e20053de39c0"
+    },
+    "sprite-editor": {
+      "source": "Unity-Technologies/skills",
+      "sourceType": "github",
+      "skillPath": "skills/sprite-editor/SKILL.md",
+      "computedHash": "5dbe2589a016c7cf47c8f106da699a57b8b9c46b90c009d359d0a5ec5692bbf9"
+    },
+    "sprite-segment-3x3grid": {
+      "source": "Unity-Technologies/skills",
+      "sourceType": "github",
+      "skillPath": "skills/sprite-segment-3x3grid/SKILL.md",
+      "computedHash": "524f01bbd1f64e53b899d4d3020b73fcdcd35194e9a1629a8f5f76b7c9039e84"
+    },
+    "tilemap-palette-create": {
+      "source": "Unity-Technologies/skills",
+      "sourceType": "github",
+      "skillPath": "skills/tilemap-palette-create/SKILL.md",
+      "computedHash": "60aca988f88f0541d403607678b6ee37ee59eaa14b79ce7172d90e5124c3d1bc"
+    },
+    "tilemap-ruletile-createempty": {
+      "source": "Unity-Technologies/skills",
+      "sourceType": "github",
+      "skillPath": "skills/tilemap-ruletile-createempty/SKILL.md",
+      "computedHash": "1a38b1a7b0951a392d27ecb102f543fe8e69fdf7a6fc8b06f76ee225d1f140c2"
+    },
+    "tilemap-ruletile-createfromsegment": {
+      "source": "Unity-Technologies/skills",
+      "sourceType": "github",
+      "skillPath": "skills/tilemap-ruletile-createfromsegment/SKILL.md",
+      "computedHash": "011bdcfd2431c4bc81b587407b49b832d412358388208a653db89b7d8db1584c"
+    },
+    "ui": {
+      "source": "Unity-Technologies/skills",
+      "sourceType": "github",
+      "skillPath": "skills/ui/SKILL.md",
+      "computedHash": "928988d966ce770b4bc497c142b6157bcea0a209af2afc99fdcbb2a2352e0d68"
+    },
+    "ui-imgui": {
+      "source": "Unity-Technologies/skills",
+      "sourceType": "github",
+      "skillPath": "skills/ui-imgui/SKILL.md",
+      "computedHash": "ad43750fa20084e18ef711288f461fdeb3ee448680bf5b098cfb3096ffe81844"
+    },
+    "ui-ugui": {
+      "source": "Unity-Technologies/skills",
+      "sourceType": "github",
+      "skillPath": "skills/ui-ugui/SKILL.md",
+      "computedHash": "f1f37ee90215335cf4211e54a68653ad366e911eddfc041758bcae3060e7dd0b"
+    },
+    "ui-uitk": {
+      "source": "Unity-Technologies/skills",
+      "sourceType": "github",
+      "skillPath": "skills/ui-uitk/SKILL.md",
+      "computedHash": "24015badf3e7c0440d40cc1400592b63ee8bbcecd2af0dc956a86499028ff53d"
+    },
+    "unity-cli": {
+      "source": "Unity-Technologies/skills",
+      "sourceType": "github",
+      "skillPath": "skills/unity-cli/SKILL.md",
+      "computedHash": "3dc226a7f8fdb938126606c6f7ed4c97a1eee541e9f0ae1a38e8d7918f37964e"
+    },
+    "unity-package-management": {
+      "source": "Unity-Technologies/skills",
+      "sourceType": "github",
+      "skillPath": "skills/unity-package-management/SKILL.md",
+      "computedHash": "e3f2864bae52f446664469bba04484c04fc142d3b0e2290a4d360f46db808fcb"
+    },
+    "urp-postprocessing": {
+      "source": "Unity-Technologies/skills",
+      "sourceType": "github",
+      "skillPath": "skills/urp-postprocessing/SKILL.md",
+      "computedHash": "0dee1610b841f63ff8872c19c08ce74bd0a1fffa7322fb8d3fccb57106bae1ba"
+    },
+    "validate-urp-render-graph-renderer-feature": {
+      "source": "Unity-Technologies/skills",
+      "sourceType": "github",
+      "skillPath": "skills/validate-urp-render-graph-renderer-feature/SKILL.md",
+      "computedHash": "0038b319a6eac55a454a5da817bdba4e909300f151659f151f1868b64e858ffb"
+    }
+  }
+}

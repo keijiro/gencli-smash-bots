@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "generator": {
+    "name": "unity-ai",
+    "version": "0.1.0-alpha.13"
+  },
+  "modelId": "photoroom-bg-removal",
+  "orgId": "20067061194790",
+  "jobId": "01a0fb6b-1e30-7fc1-b391-85ea5e14296d",
+  "assetId": "01a0fb6b-5fdc-7af5-b22b-bf9dad3519fc",
+  "pointsCost": 1,
+  "createdAt": "2026-10-02T07:01:56.4266680+00:00",
+  "modelName": "Photoroom Background Removal",
+  "params": {
+    "asset_id": "01a0fb6b-116e-7376-b9c7-2c0ffedf7543"
+  },
+  "inputs": [
+    {
+      "param": "asset_id",
+      "file": "robot_player_concept.png",
+      "assetId": "01a0fb6b-116e-7376-b9c7-2c0ffedf7543"
+    }
+  ],
+  "output": {
+    "index": 1,
+    "count": 1,
+    "generationId": "01a0fb6b-1e30-7fc1-b391-85ea5e14296d"
+  }
+}

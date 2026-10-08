@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "generator": {
+    "name": "unity-ai",
+    "version": "0.1.0-alpha.13"
+  },
+  "modelId": "gpt-image-2-5-flare",
+  "orgId": "20067061194790",
+  "jobId": "01a0fb69-4bb1-70f5-bd6e-0ad2a882a90c",
+  "assetId": "01a0fb69-c866-7ffb-92d3-3b540edab373",
+  "pointsCost": 2,
+  "createdAt": "2026-10-02T07:00:12.9278770+00:00",
+  "prompt": "Single 3D game prop for image-to-3D reconstruction, based on the ENEMY RACKET in the reference sheet: a futuristic tennis racket held by a short segmented mechanical robot arm. The arm is dark charcoal with blue joint accents and a small claw gripping the racket handle; the racket has an oval head with a thick glowing bright blue neon rim and a fine blue glowing string mesh, dark charcoal throat. Shown in a three-quarter view, racket head facing mostly toward the viewer, the whole object visible with margin, centered, isolated on a fully transparent background, soft even studio lighting, no shadow. High quality stylized 3D render.",
+  "modelName": "GPT Image 2.5 Flare",
+  "params": {
+    "prompt": "Single 3D game prop for image-to-3D reconstruction, based on the ENEMY RACKET in the reference sheet: a futuristic tennis racket held by a short segmented mechanical robot arm. The arm is dark charcoal with blue joint accents and a small claw gripping the racket handle; the racket has an oval head with a thick glowing bright blue neon rim and a fine blue glowing string mesh, dark charcoal throat. Shown in a three-quarter view, racket head facing mostly toward the viewer, the whole object visible with margin, centered, isolated on a fully transparent background, soft even studio lighting, no shadow. High quality stylized 3D render.",
+    "width": 1024,
+    "height": 1024,
+    "quality": "high",
+    "background": "transparent",
+    "reference_images": [
+      "01a0fb69-3dce-7308-af3c-17f1a5c2b29e"
+    ]
+  },
+  "inputs": [
+    {
+      "param": "reference_images",
+      "file": "concept3.png",
+      "assetId": "01a0fb69-3dce-7308-af3c-17f1a5c2b29e"
+    }
+  ],
+  "output": {
+    "index": 1,
+    "count": 1,
+    "generationId": "01a0fb69-4bb1-70f5-bd6e-0ad2a882a90c"
+  }
+}

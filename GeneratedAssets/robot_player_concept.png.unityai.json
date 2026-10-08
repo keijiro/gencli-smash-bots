@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "generator": {
+    "name": "unity-ai",
+    "version": "0.1.0-alpha.13"
+  },
+  "modelId": "gpt-image-2-5-flare",
+  "orgId": "20067061194790",
+  "jobId": "01a0fb69-4c79-7c40-9b51-9cbf51aca8b3",
+  "assetId": "01a0fb69-bc66-74a4-971b-40a71366b5c8",
+  "pointsCost": 2,
+  "createdAt": "2026-10-02T07:00:10.6403780+00:00",
+  "prompt": "Single 3D game character asset for image-to-3D reconstruction, based on the PLAYER ROBOT in the reference sheet. A cute spherical hovering sports robot shown in a three-quarter front view (turned about 30 degrees to its left), centered, entire robot visible with margin, isolated on a fully transparent background, soft even studio lighting, no cast shadow, no ground. Glossy off-white panelled spherical body with orange accent stripes and small orange panels, a large black rounded-rectangle face screen with two glowing orange vertical bar eyes, two dark charcoal antenna fins on top with orange tips, round headphone-like side discs with glowing orange rings, small dark vents and speaker holes, a dark charcoal thruster nozzle underneath with a soft orange glow. Absolutely no arms, no hands, no racket. Clean futuristic playful style, high quality stylized 3D render.",
+  "modelName": "GPT Image 2.5 Flare",
+  "params": {
+    "prompt": "Single 3D game character asset for image-to-3D reconstruction, based on the PLAYER ROBOT in the reference sheet. A cute spherical hovering sports robot shown in a three-quarter front view (turned about 30 degrees to its left), centered, entire robot visible with margin, isolated on a fully transparent background, soft even studio lighting, no cast shadow, no ground. Glossy off-white panelled spherical body with orange accent stripes and small orange panels, a large black rounded-rectangle face screen with two glowing orange vertical bar eyes, two dark charcoal antenna fins on top with orange tips, round headphone-like side discs with glowing orange rings, small dark vents and speaker holes, a dark charcoal thruster nozzle underneath with a soft orange glow. Absolutely no arms, no hands, no racket. Clean futuristic playful style, high quality stylized 3D render.",
+    "width": 1024,
+    "height": 1024,
+    "quality": "high",
+    "background": "transparent",
+    "reference_images": [
+      "01a0fb69-3eba-727f-be17-6880f67f1348"
+    ]
+  },
+  "inputs": [
+    {
+      "param": "reference_images",
+      "file": "concept3.png",
+      "assetId": "01a0fb69-3eba-727f-be17-6880f67f1348"
+    }
+  ],
+  "output": {
+    "index": 1,
+    "count": 1,
+    "generationId": "01a0fb69-4c79-7c40-9b51-9cbf51aca8b3"
+  }
+}

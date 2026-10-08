@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "generator": {
+    "name": "unity-ai",
+    "version": "0.1.0-alpha.13"
+  },
+  "modelId": "elevenlabs-sound-effects-v2",
+  "orgId": "20067061194790",
+  "jobId": "01a0fb6c-526e-7dfd-8220-fa68fece1638",
+  "assetId": "01a0fb6c-6e44-77c8-9364-042bf57f35bf",
+  "pointsCost": 5,
+  "createdAt": "2026-10-02T07:03:05.1072020+00:00",
+  "prompt": "Huge cinematic energy impact, deep bass boom with electric crackle and a sharp supersonic whoosh, video game super move hit",
+  "modelName": "ElevenLabs Sound Effects V2",
+  "params": {
+    "prompt": "Huge cinematic energy impact, deep bass boom with electric crackle and a sharp supersonic whoosh, video game super move hit",
+    "duration": 2.5,
+    "prompt_influence": 0.5,
+    "output_format": "wav"
+  },
+  "output": {
+    "index": 1,
+    "count": 1,
+    "generationId": "01a0fb6c-526e-7dfd-8220-fa68fece1638"
+  }
+}

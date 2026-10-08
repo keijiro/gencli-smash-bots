@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "generator": {
+    "name": "unity-ai",
+    "version": "0.1.0-alpha.13"
+  },
+  "modelId": "elevenlabs-sound-effects-v2",
+  "orgId": "20067061194790",
+  "jobId": "01a0fb69-eb7d-7a36-b99a-2cb1244fece5",
+  "assetId": "01a0fb6a-2eb8-774a-a5c1-af8023c6991e",
+  "pointsCost": 5,
+  "createdAt": "2026-10-02T07:00:37.9993180+00:00",
+  "prompt": "Clean futuristic user interface confirm click, soft bright digital blip",
+  "modelName": "ElevenLabs Sound Effects V2",
+  "params": {
+    "prompt": "Clean futuristic user interface confirm click, soft bright digital blip",
+    "duration": 0.5,
+    "prompt_influence": 0.6,
+    "output_format": "wav"
+  },
+  "output": {
+    "index": 1,
+    "count": 1,
+    "generationId": "01a0fb69-eb7d-7a36-b99a-2cb1244fece5"
+  }
+}

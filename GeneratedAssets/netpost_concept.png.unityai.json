@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "generator": {
+    "name": "unity-ai",
+    "version": "0.1.0-alpha.13"
+  },
+  "modelId": "gpt-image-2-5-flare",
+  "orgId": "20067061194790",
+  "jobId": "01a0fb69-4dd7-7ed4-b840-04ee8383a570",
+  "assetId": "01a0fb69-d2da-7f39-875b-047ac3b922c1",
+  "pointsCost": 2,
+  "createdAt": "2026-10-02T07:00:14.1656360+00:00",
+  "prompt": "Single 3D game prop for image-to-3D reconstruction, based on the glowing net posts in the reference images: a futuristic net post pylon for a robot tennis court. A short sturdy upright rectangular pillar of dark charcoal metal with rounded edges, about three times taller than wide, with a tall glowing orange light panel inset on its front face and a slim orange light slit on its side, a small chunky base plate. Three-quarter view, centered, whole object visible, isolated on a fully transparent background, soft even studio lighting, no shadow. High quality stylized 3D render.",
+  "modelName": "GPT Image 2.5 Flare",
+  "params": {
+    "prompt": "Single 3D game prop for image-to-3D reconstruction, based on the glowing net posts in the reference images: a futuristic net post pylon for a robot tennis court. A short sturdy upright rectangular pillar of dark charcoal metal with rounded edges, about three times taller than wide, with a tall glowing orange light panel inset on its front face and a slim orange light slit on its side, a small chunky base plate. Three-quarter view, centered, whole object visible, isolated on a fully transparent background, soft even studio lighting, no shadow. High quality stylized 3D render.",
+    "width": 1024,
+    "height": 1024,
+    "quality": "high",
+    "background": "transparent",
+    "reference_images": [
+      "01a0fb69-3e8d-7913-a0f2-4f556d7cb27a"
+    ]
+  },
+  "inputs": [
+    {
+      "param": "reference_images",
+      "file": "concept1.png",
+      "assetId": "01a0fb69-3e8d-7913-a0f2-4f556d7cb27a"
+    }
+  ],
+  "output": {
+    "index": 1,
+    "count": 1,
+    "generationId": "01a0fb69-4dd7-7ed4-b840-04ee8383a570"
+  }
+}

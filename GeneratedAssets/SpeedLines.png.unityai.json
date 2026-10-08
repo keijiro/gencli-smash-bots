@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "generator": {
+    "name": "unity-ai",
+    "version": "0.1.0-alpha.13"
+  },
+  "modelId": "gpt-image-2-5-flare",
+  "orgId": "20067061194790",
+  "jobId": "01a0fb76-4d07-7344-9509-7f0c2e11bcea",
+  "assetId": "01a0fb76-8dc6-756f-86b0-16b1662b7832",
+  "pointsCost": 2,
+  "createdAt": "2026-10-02T07:14:09.2361080+00:00",
+  "prompt": "Anime manga style radial speed lines overlay for a video game screen effect: many thin sharp white streaks radiating from the edges of the frame toward the center, dense at the borders and fading out before the middle, the whole center area empty, pure white lines only, isolated on a fully transparent background.",
+  "modelName": "GPT Image 2.5 Flare",
+  "params": {
+    "prompt": "Anime manga style radial speed lines overlay for a video game screen effect: many thin sharp white streaks radiating from the edges of the frame toward the center, dense at the borders and fading out before the middle, the whole center area empty, pure white lines only, isolated on a fully transparent background.",
+    "width": 1536,
+    "height": 864,
+    "quality": "high",
+    "background": "transparent"
+  },
+  "output": {
+    "index": 1,
+    "count": 1,
+    "generationId": "01a0fb76-4d07-7344-9509-7f0c2e11bcea"
+  }
+}

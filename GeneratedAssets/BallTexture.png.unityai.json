@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "generator": {
+    "name": "unity-ai",
+    "version": "0.1.0-alpha.13"
+  },
+  "modelId": "gpt-image-2-5-flare",
+  "orgId": "20067061194790",
+  "jobId": "01a0fb69-742a-7d0c-8e5b-f6a223f349d8",
+  "assetId": "01a0fb69-cf3e-7c1d-8a37-ffe777f13797",
+  "pointsCost": 2,
+  "createdAt": "2026-10-02T07:00:14.4439320+00:00",
+  "prompt": "Equirectangular UV texture map for a sphere: a futuristic tennis ball, bright fluorescent neon yellow-green fuzzy felt surface with the classic curving white tennis ball seam lines, flat unwrapped map filling the whole image, uniform flat lighting, no shading, no background.",
+  "modelName": "GPT Image 2.5 Flare",
+  "params": {
+    "prompt": "Equirectangular UV texture map for a sphere: a futuristic tennis ball, bright fluorescent neon yellow-green fuzzy felt surface with the classic curving white tennis ball seam lines, flat unwrapped map filling the whole image, uniform flat lighting, no shading, no background.",
+    "width": 1024,
+    "height": 512,
+    "quality": "high",
+    "background": "opaque"
+  },
+  "output": {
+    "index": 1,
+    "count": 1,
+    "generationId": "01a0fb69-742a-7d0c-8e5b-f6a223f349d8"
+  }
+}

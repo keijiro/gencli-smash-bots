@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "generator": {
+    "name": "unity-ai",
+    "version": "0.1.0-alpha.13"
+  },
+  "modelId": "gpt-image-2-5-flare",
+  "orgId": "20067061194790",
+  "jobId": "01a0fb6d-1dc1-7d7a-b084-ebc172d69419",
+  "assetId": "01a0fb6d-8f1e-7ae3-876e-cc866a4b1bf1",
+  "pointsCost": 2,
+  "createdAt": "2026-10-02T07:04:20.1114110+00:00",
+  "prompt": "Single 3D environment prop for image-to-3D reconstruction, matching the white sci-fi corridor in the reference image: one tall structural wall pillar module of a futuristic white hangar. A tall vertical white panelled column, slightly wider at the bottom with a chunky chamfered angled base block, a long vertical cool-white glowing light strip inset down the middle of its front face, light grey seams, small vents and bolts, the top bending forward slightly like a ceiling rib. Three-quarter view, the whole object visible, centered, isolated on a fully transparent background, soft even studio lighting, no shadow, no floor. High quality stylized 3D render.",
+  "modelName": "GPT Image 2.5 Flare",
+  "params": {
+    "prompt": "Single 3D environment prop for image-to-3D reconstruction, matching the white sci-fi corridor in the reference image: one tall structural wall pillar module of a futuristic white hangar. A tall vertical white panelled column, slightly wider at the bottom with a chunky chamfered angled base block, a long vertical cool-white glowing light strip inset down the middle of its front face, light grey seams, small vents and bolts, the top bending forward slightly like a ceiling rib. Three-quarter view, the whole object visible, centered, isolated on a fully transparent background, soft even studio lighting, no shadow, no floor. High quality stylized 3D render.",
+    "width": 1024,
+    "height": 1536,
+    "quality": "high",
+    "background": "transparent",
+    "reference_images": [
+      "01a0fb6d-1096-7932-b51b-f9aba36c32ce"
+    ]
+  },
+  "inputs": [
+    {
+      "param": "reference_images",
+      "file": "concept1.png",
+      "assetId": "01a0fb6d-1096-7932-b51b-f9aba36c32ce"
+    }
+  ],
+  "output": {
+    "index": 1,
+    "count": 1,
+    "generationId": "01a0fb6d-1dc1-7d7a-b084-ebc172d69419"
+  }
+}

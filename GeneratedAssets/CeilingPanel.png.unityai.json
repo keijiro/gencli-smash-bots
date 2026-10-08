@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "generator": {
+    "name": "unity-ai",
+    "version": "0.1.0-alpha.13"
+  },
+  "modelId": "gpt-image-2-5-flare",
+  "orgId": "20067061194790",
+  "jobId": "01a0fb69-75c7-70d1-8920-914f0c6de045",
+  "assetId": "01a0fb69-ea7b-7ccc-b03c-fcce254ecddb",
+  "pointsCost": 2,
+  "createdAt": "2026-10-02T07:00:21.5867080+00:00",
+  "prompt": "Seamless tileable square texture, flat orthographic view of a futuristic white sci-fi ceiling panel: off-white panels with light grey seams, a grid of rectangular recessed plates and small service hatches, uniform soft lighting, no perspective, no shadows, no lamps, no text.",
+  "modelName": "GPT Image 2.5 Flare",
+  "params": {
+    "prompt": "Seamless tileable square texture, flat orthographic view of a futuristic white sci-fi ceiling panel: off-white panels with light grey seams, a grid of rectangular recessed plates and small service hatches, uniform soft lighting, no perspective, no shadows, no lamps, no text.",
+    "width": 1024,
+    "height": 1024,
+    "quality": "high",
+    "background": "opaque"
+  },
+  "output": {
+    "index": 1,
+    "count": 1,
+    "generationId": "01a0fb69-75c7-70d1-8920-914f0c6de045"
+  }
+}

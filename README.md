@@ -23,18 +23,7 @@ audio, UI images) were produced with generative AI tools.
 
 Open the project in Unity, open `Assets/Main.unity` and enter Play mode.
 
-## Project Layout
-
-| Path | Contents |
-|---|---|
-| `Assets/Scripts` | Runtime code (`SmashBots` namespace) |
-| `Assets/Editor` | Scene builder and model post-processor |
-| `Assets/Generated` | Generated assets imported into the project |
-| `Assets/Main.unity` | The game scene (built by the scene builder) |
-| `GeneratedAssets` | Raw generator outputs and their generation metadata (`*.unityai.json`) |
-| `Docs` | Concept art and screenshots |
-
-### Runtime Overview
+## Runtime Overview
 
 - `GameManager` – Game flow (title / attract mode, serve, rally, scoring).
 - `PlayerController` – Click-timing and aim judgement for normal shots.
@@ -45,14 +34,14 @@ Open the project in Unity, open `Assets/Main.unity` and enter Play mode.
 - `CameraDirector`, `HudController`, `PostFxController`, `Effects`,
   `AudioController` – Presentation.
 
-### Scene Builder
+## Scene Builder
 
 The whole scene (environment, robots, systems, materials and prefabs) is
 generated from code. Run **Smash Bots > Build Scene** from the menu bar to
 rebuild `Assets/Main.unity`. Edit the `SceneBuilder*.cs` files rather than the
 scene itself, since changes made directly to the scene are lost on rebuild.
 
-### Debug Flags
+## Debug Flags
 
 These static properties are handy for unattended testing, for example through
 an editor script or a REPL in Play mode:

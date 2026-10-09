@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 53
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eae338eaaa76f4c90bf0c347ad5337a9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: glTFastTweaks.Editor::GLTFastTweaks.TextureOverrideSettings
+  defaults:
+    enabled: 1
+    maxSize: 1024
+    compression: 2
+    filterMode: 2
+  entries:
+  - glbGuid: 64e8c8e9bf40642ac910a48aa2e83c30
+    glbPath: Assets/Generated/Models/RobotPlayer.glb
+    overrides:
+      enabled: 0
+      maxSize: 1024
+      compression: 2
+      filterMode: 2
+  - glbGuid: 15d7d64f2be07457d833e85a8b259f85
+    glbPath: Assets/Generated/Models/NetPost.glb
+    overrides:
+      enabled: 0
+      maxSize: 1024
+      compression: 2
+      filterMode: 2
+  - glbGuid: 3546ba913706b4f978bc373f2febce2f
+    glbPath: Assets/Generated/Models/RobotEnemy.glb
+    overrides:
+      enabled: 0
+      maxSize: 1024
+      compression: 2
+      filterMode: 2
+  - glbGuid: 55d50d78057f84e69971020c4a94f47d
+    glbPath: Assets/Generated/Models/RacketPlayer.glb
+    overrides:
+      enabled: 0
+      maxSize: 1024
+      compression: 2
+      filterMode: 2
+  - glbGuid: 7630516b57441430bbb361bb2cd7a7f7
+    glbPath: Assets/Generated/Models/RacketEnemy.glb
+    overrides:
+      enabled: 0
+      maxSize: 1024
+      compression: 2
+      filterMode: 2
+  - glbGuid: bdd3f097630754f35a646e21b0a4f713
+    glbPath: Assets/Generated/Models/WallPillar.glb
+    overrides:
+      enabled: 0
+      maxSize: 1024
+      compression: 2
+      filterMode: 2

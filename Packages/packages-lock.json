@@ -157,6 +157,15 @@
         "com.unity.modules.jsonserialize": "1.0.0"
       }
     },
+    "jp.keijiro.gltfast-tweaks": {
+      "version": "1.1.2",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.cloud.gltfast": "6.20.0"
+      },
+      "url": "https://registry.npmjs.com"
+    },
     "jp.keijiro.klutter-tools": {
       "version": "2.6.0",
       "depth": 0,

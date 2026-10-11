@@ -17,11 +17,6 @@ audio, UI images) were produced with generative AI tools.
 ## Requirements
 
 - Unity 6000.6.4f1 or later
-- Universal Render Pipeline
-
-## Getting Started
-
-Open the project in Unity, open `Assets/Main.unity` and enter Play mode.
 
 ## Runtime Overview
 
